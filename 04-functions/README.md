@@ -86,3 +86,13 @@ go run functions.go
 - [Go by Example: Variadic Functions](https://gobyexample.com/variadic-functions)
 - [Go by Example: Closures](https://gobyexample.com/closures)
 - [Effective Go: Functions](https://go.dev/doc/effective_go#functions)
+
+---
+
+## ?? Best Practices
+
+- **Write Clean Code:** Always format your code using `go fmt`.
+- **Use Meaningful Names:** Choose descriptive names for variables and functions.
+- **Keep it Simple:** Avoid overly complex logic when a simpler solution exists.
+- **Document Your Code:** Add comments to explain *why*, not just *what*.
+- **Handle Errors:** Always check for and handle errors gracefully.

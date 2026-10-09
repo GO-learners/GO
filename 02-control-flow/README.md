@@ -94,3 +94,12 @@ After mastering control flow, move on to:
 - Arrays and slices
 - Maps and structs
 - Error handling patterns
+---
+
+## ?? Best Practices
+
+- **Write Clean Code:** Always format your code using `go fmt`.
+- **Use Meaningful Names:** Choose descriptive names for variables and functions.
+- **Keep it Simple:** Avoid overly complex logic when a simpler solution exists.
+- **Document Your Code:** Add comments to explain *why*, not just *what*.
+- **Handle Errors:** Always check for and handle errors gracefully.
