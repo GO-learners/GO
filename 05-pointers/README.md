@@ -58,3 +58,13 @@ go run pointers.go
 - [Go by Example: Pointers](https://gobyexample.com/pointers)
 - [A Tour of Go: Pointers](https://go.dev/tour/moretypes/1)
 - [Effective Go: Pointers vs. Values](https://go.dev/doc/effective_go#pointers_vs_values)
+
+---
+
+## ?? Best Practices
+
+- **Write Clean Code:** Always format your code using `go fmt`.
+- **Use Meaningful Names:** Choose descriptive names for variables and functions.
+- **Keep it Simple:** Avoid overly complex logic when a simpler solution exists.
+- **Document Your Code:** Add comments to explain *why*, not just *what*.
+- **Handle Errors:** Always check for and handle errors gracefully.
